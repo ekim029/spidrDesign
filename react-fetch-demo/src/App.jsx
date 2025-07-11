@@ -59,7 +59,7 @@ function App() {
           <input
             type="tel"
             value={phoneNumber}
-            inputMode="numeric"   // brings up number keypad on mobiles
+            inputMode="numeric"
             maxLength={10}
             minLength={10}
             required
